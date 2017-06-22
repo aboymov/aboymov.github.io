@@ -1,1 +1,19 @@
-Hello World
+<html>
+
+<body>
+  <center>
+    <div style="width:80%; height:200px">
+      <div id="count" align='left'>Characters (excluding space): 0</div>
+      <textarea id="input" style="height:100%; width: 100%" onKeyUp='countCharacters()'></textarea>
+    </div>
+  </center>
+
+  <script>
+    function countCharacters() {
+      document.getElementById("count").innerHTML = 'Characters (excluding space): ' + 
+        document.getElementById("input").value.match(/[^ ]/g).length 
+    } 
+  </script>
+</body>
+
+</html>
