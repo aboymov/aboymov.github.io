@@ -11,7 +11,7 @@
   <script>
     function countCharacters() {
       document.getElementById("count").innerHTML = 'Characters (excluding space): ' + 
-        document.getElementById("input").value.match(/[^ ]/g).length 
+        document.getElementById("input").value.(match(/[^ ]/g) || []).length  + "<br>"
     } 
   </script>
 </body>
