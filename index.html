@@ -1,12 +1,36 @@
 <html>
 
+<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+  html, body{
+    height: 100%;
+  }
+
+  #input {
+    height: 100%; 
+    width: 100%; 
+    margin-top: 5px;
+  }
+
+  #wrapper {
+    width: 80%; 
+    height: 30%; 
+    margin-left: 10%; 
+  }
+  
+  #count {
+    margin-top: 10px
+  }
+</style>
+
 <body>
-  <center>
-    <div style="width:80%; height:200px">
-      <div id="count" align='left'>Characters (excluding space): 0</div>
-      <textarea id="input" style="height:100%; width: 100%" onKeyUp='countCharacters()'></textarea>
+    <div id="wrapper">
+      <label for="input" align="left" id="count">Characters (excluding space): 0</label>
+      <textarea class="form-control" id="input" onKeyUp="countCharacters()"></textarea>
     </div>
-  </center>
+
+  <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 
   <script>
     function countCharacters() {
