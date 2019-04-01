@@ -1,4 +1,4 @@
-# ![Markdown Here logo](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png) Markdown Here
+# Markdown Here
 
 [**Test link**](https://aboymov.github.io/tmp/index.html)<br>
 [**Visit the website.**](http://markdown-here.com)<br>
