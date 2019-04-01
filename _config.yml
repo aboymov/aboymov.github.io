@@ -1,12 +1,12 @@
 theme: minima
 header_pages: ['']
-title: Contact info
-author: test
-email: test@gmail.com
+title: Contact information
+author: Vasiliy Aboymov
+email: aboymov at gmail.com
 show_excerpts: true
 description: > 
   About me and my work
 
 twitter_username: stee1rat 
 github_username:  stee1rat
-linkedin_username: jekyll
+linkedin_username: aboymov
