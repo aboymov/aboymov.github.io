@@ -38,3 +38,10 @@ minima:
     youtube: jekyll
     youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     youtube_channel_name: CloudCannon
+
+plugins:
+ - jekyll-feed
+ - jekyll-paginate
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
