@@ -4,12 +4,9 @@ title: My user page
 author: test
 email: test@gmail.com
 show_excerpts: true
-description: >
-  About me and my work
-
-github_username: aboymov2
+description: > About me and my work
+github_username: aboymov3
 instagram_username: stee1rat
-
 minima:
   social_links:
     twitter: jekyllrb
