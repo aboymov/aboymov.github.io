@@ -6,6 +6,14 @@ email: test@gmail.com
 show_excerpts: true
 description: >
   About me and my work
+
+github_username: dleidert
+instagram_username: daniel.leidert
+xing_username: Daniel_Leidert
+debian_username: dleidert
+gnupg_key: 0xF11F9DE2C296D05D
+rss: rss
+
 minima:
   social_links:
     twitter: jekyllrb
