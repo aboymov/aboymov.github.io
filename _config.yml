@@ -1,6 +1,9 @@
 theme: minima
 header_pages: ['']
 title: My user page
+author: test
+email: test@gmail.com
+show_excerpts: true
 description: >
   About me and my work
 minima:
