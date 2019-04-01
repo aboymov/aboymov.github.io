@@ -10,7 +10,6 @@ description: >
 github_username: aboymov
 instagram_username: stee1rat
 
-minima:
   social_links:
     twitter: jekyllrb
     github: jekyll
