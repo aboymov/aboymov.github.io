@@ -7,10 +7,10 @@ show_excerpts: true
 description: >
   About me and my work
 
-github_username: aboymov
+github_username: aboymov2
 instagram_username: stee1rat
 
-social_links:
+social:
   twitter: jekyllrb
   github: jekyll
   dribbble: jekyll
