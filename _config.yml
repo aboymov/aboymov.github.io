@@ -6,23 +6,15 @@ email: test@gmail.com
 show_excerpts: true
 description: > 
   About me and my work
-github_username: aboymov3
-instagram_username: stee1rat
-minima:
-  social_links:
-    twitter: jekyllrb
-    github: jekyll
-    dribbble: jekyll
-    facebook: jekyll
-    flickr: jekyll
-    instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    telegram: jekyll
-    googleplus: +jekyll
-    microdotblog: jekyll
-    rss: rss
-  
-    youtube: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    youtube_channel_name: CloudCannon
+
+twitter_username: jekyllrb
+github_username:  jekyll
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+googleplus_username: +jekyll
+rss: rss
